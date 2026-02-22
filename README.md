@@ -1,3 +1,4 @@
+Replaced with:
 u-Kama Doctrine — Canonical Corpus v1.0
 Canonical freeze as of 21 February 2026. Superseded only by later version.
 Date of Issue: 21 February 2026
